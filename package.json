@@ -1,0 +1,39 @@
+{
+  "name": "eslint-config-otag",
+  "description": "Otag Standard JavaScript Style - ESLint Shareable Config",
+  "version": "1.0.0",
+  "author": {
+    "name": "Alper Kürşat",
+    "email": "alper@otagjs.org",
+    "url": "https://otagjs.org"
+  },
+  "bugs": {
+    "url": "https://gitlab.com/Otag/eslint-config-otag/issues"
+  },
+  "devDependencies": {
+    "eslint": "^5.5.0"
+  },
+  "peerDependencies": {
+    "eslint": ">=5.5.0"
+  },
+  "homepage": "https://otagjs.org",
+  "keywords": [
+    "JavaScript Standard Style",
+    "Code Quality",
+    "Otag Standards",
+    "Code Style",
+    "Otag Code Style",
+    "Otağ Kod Standardı",
+    "JavaScript Kod Standardı",
+    "Kodlama",
+    "OtagJS",
+    "Otag",
+    "Yiv",
+    "Ölçünler"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://gitlab.com/Otag/eslint-config-otag.git"
+  }
+}
