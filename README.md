@@ -1,6 +1,6 @@
 # eslint-config-otag
 
-![](./arma.svg)
+![](https://cdn.rawgit.com/OtagJS/eslint-config-otag/master/damga.svg)
 
 Otağ JavaScript Yiv Ölçünleri (Otağ JS Code Standards) yivlerinizi belirli ölçünlere getirir. Göz yormayan, okunaklı bir biçime bürür.
 
@@ -36,7 +36,7 @@ package.json
 ```json
 {
   "name": "Tasarı Dürü'sü",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "eslintConfig": {
     "extends": ["eslint-config-otag"]
   }
@@ -47,9 +47,13 @@ package.json
 
 ## Damga
 
-<img src="./damga.svg">
+<img src="https://cdn.rawgit.com/OtagJS/eslint-config-otag/master/damga.svg">
 
 İsterseniz, kullandığınız tasarılarda bu damgayı koyabilirsiniz.
+
+```html
+<img src="https://cdn.rawgit.com/OtagJS/eslint-config-otag/master/damga.svg">
+```
 
 ## Yeterge
 
